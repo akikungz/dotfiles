@@ -43,7 +43,7 @@ module.exports = {
             }
 
             .term_wrapper:before {
-                background-image: url("$IMAGE_PATH");
+                background-image: url("https://raw.githubusercontent.com/akikungz/akikungz/main/images/103424174_p0.png");
                 background-position: center;
                 background-repeat: no-repeat;
                 background-size: cover;
