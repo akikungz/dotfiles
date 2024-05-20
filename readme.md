@@ -4,6 +4,5 @@
 
 ## Configuretion List
 
-- htop
 - tmux
 - hyper terminal
