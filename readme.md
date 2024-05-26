@@ -6,3 +6,4 @@
 
 - tmux
 - hyper terminal
+- nvim [lazyvim]
