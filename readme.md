@@ -5,5 +5,3 @@
 ## Configuretion List
 
 - tmux
-- hyper terminal
-- nvim [lazyvim]
