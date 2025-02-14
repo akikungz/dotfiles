@@ -11,4 +11,4 @@ git submodule update --init --recursive
 cp -a . ~/.config
 
 # global bashrc use .bashrc
-echo "source ~/.config/bash/.bashrc" >> ~/.bashrc
+echo "source ~/.config/.bashrc" >> ~/.bashrc
